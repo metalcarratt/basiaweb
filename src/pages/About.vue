@@ -1,0 +1,41 @@
+<template>
+    <main>
+        <HorizNav />
+
+        <h1>About Me</h1>
+        <p>
+            My name is Basia Garratt and you pronounce my first name like ‘Russia’ but with a
+            ‘B’ not an ‘R’. Both of my parents were born in Poland but I was born in Wellington,
+            New Zealand. My husband and I have travelled and lived in Warsaw, Poland for four
+            years and London for three years, but now reside in Hamilton, New Zealand.
+        </p>
+        <p>
+            In 2009 I received a Diploma in Proofreading, Editing and Publishing from the New
+            Zealand Institute of Business Studies and in 2012 a Certificate in English Language
+            Teaching (TESOL) in London. On returning to New Zealand in 2013 I began
+            proofreading for students with English as a second language from the University of
+                
+            Auckland, with many coming from Indonesia, Cambodia, Vietnam, the Philippines
+            and Pacific Islands.
+        </p>
+        <p>
+            Apart from taking on work from students I am also interested in proofing children’s
+            short stories, cookbooks, reports and journal articles, etc. I am an avid cook and
+            baker/ sampler of delicious café wares. I have proofread a variety of subjects from
+            general assignments to Master’s degrees and PhD theses: Applied Practices,
+            Biology, Chemical Engineering, Development Studies, Economics, Environmental
+            Science, Evolutionary Psychology, Food Science, Foreign Policy, Geothermal
+            Energy, Geology, Public Health, Public Policy, etc.
+        </p>
+
+        <router-link to="testimonials.html">See my testimonials</router-link>
+    </main>
+</template>
+
+<script>
+import HorizNav from "@/components/HorizNav.vue";
+
+export default {
+    components: { HorizNav }    
+}
+</script>
