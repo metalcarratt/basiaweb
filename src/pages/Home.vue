@@ -15,7 +15,7 @@
                 <li><router-link to="/about.html">About Me</router-link></li>
                 <li><router-link to="/services.html">Services</router-link></li>
                 <li><router-link to="/testimonials.html">Testimonials</router-link></li>
-                <li><a href="#">Contact</a></li>
+                <li><router-link to="/contact.html">Contact</router-link></li>
             </ul>
 
             <h2>Types of Work I do</h2>

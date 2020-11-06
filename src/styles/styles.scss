@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+div#app {
+    margin-bottom: 200px;
+}
+
 .heading {
     text-align: center;
     border-bottom: 1px solid #aa877c;
@@ -100,7 +104,6 @@ em {
 .horiz-nav {
     display: block;
     text-align: center;
-    font-size: 12px;
     font-family: sans-serif;
 }
 
@@ -112,13 +115,17 @@ tr {
     }
 
     th {
-        width: 250px;
+        width: 260px;
         text-align: left;
-        font-size: 14px;
+        font-size: 16px;
+        vertical-align: top;
+        
     }
     
     td {
         width: 400px;
+        vertical-align: top;
+        padding-bottom: 20px;
     }
 }
 

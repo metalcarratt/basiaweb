@@ -21,7 +21,7 @@
 
         <p>
             I will suggest changes/adjustments to improve your document and make your work as error free as
-            possible but do not guarantee perfection. Your document will contain ‘track changes’ and ‘comments’
+            possible. Your document will contain ‘track changes’ and ‘comments’
             in the margin if I have not understood your intending meaning. You will need to go through and Accept
             or Reject all the changes to finalise your copy. Students may wish to send their work through by
             chapters or as one whole document. 

@@ -12,7 +12,8 @@
         <b v-if="atTestimonials">Testimonials</b>
         <router-link to="/testimonials.html" v-else>Testimonials</router-link>
          | 
-        <a href="#">Contact</a>
+        <b v-if="atContact">Contact</b>
+        <router-link to="/contact.html" v-else>Contact</router-link>
     </span>
 </template>
 
@@ -30,6 +31,9 @@ export default {
         },
         atServices() {
             return this.$router.currentRoute.value.path === "/services.html";
+        },
+        atContact() {
+            return this.$router.currentRoute.value.path === "/contact.html";
         }
     }
 }
