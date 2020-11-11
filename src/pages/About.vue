@@ -14,7 +14,6 @@
             Zealand Institute of Business Studies and in 2012 a Certificate in English Language
             Teaching (TESOL) in London. On returning to New Zealand in 2013 I began
             proofreading for students with English as a second language from the University of
-                
             Auckland, with many coming from Indonesia, Cambodia, Vietnam, the Philippines
             and Pacific Islands.
         </p>

@@ -41,6 +41,24 @@ div#app {
 main {
     width: 700px;
     margin: 0 auto;
+
+    @media (min-width: 1400px) {
+        &.fullWidth {
+            width: 1400px;
+
+            h1 {
+                text-align: center;            
+            }
+        }
+
+        .column {
+            display: inline-block;
+            width: 700px;
+            padding: 0 40px;
+            box-sizing: border-box;
+            vertical-align: top;
+        }
+    }
 }
 
 img.profile {
