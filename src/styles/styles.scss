@@ -190,4 +190,26 @@ form {
         padding: 5px;
         cursor: pointer;
     }
+
+    .sent {
+        width: 100%;
+        font-size: 16px;
+        padding: 5px;
+        border: 1px solid #115f12;
+        background-color: #23c123;
+        border-radius: 2px;
+        text-align: center;
+        color: #daffdd;
+    }
+
+    .sending {
+        width: 100%;
+        font-size: 16px;
+        padding: 5px;
+        border: 1px solid #5f5011;
+        background-color: #c1a323;
+        border-radius: 2px;
+        text-align: center;
+        color: #fffde4;
+    }
 }
