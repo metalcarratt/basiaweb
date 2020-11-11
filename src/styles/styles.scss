@@ -1,13 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 div#app {
     margin-bottom: 200px;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .heading {
     text-align: center;
     border-bottom: 1px solid #aa877c;
-    width: 800px;
+    background-color: #fcf9fd;
     margin: 0 auto;
     margin-bottom: 5px;
     padding-bottom: 20px;
@@ -39,12 +45,12 @@ div#app {
 }
 
 main {
-    width: 700px;
+    width: 800px;
     margin: 0 auto;
 
-    @media (min-width: 1400px) {
+    @media (min-width: 1600px) {
         &.fullWidth {
-            width: 1400px;
+            width: 1600px;
 
             h1 {
                 text-align: center;            
@@ -53,7 +59,7 @@ main {
 
         .column {
             display: inline-block;
-            width: 700px;
+            width: 800px;
             padding: 0 40px;
             box-sizing: border-box;
             vertical-align: top;
@@ -93,12 +99,14 @@ ul.menu {
 }
 
 p, ul li {
-    font-family: sans-serif;
+    font-family: "Open Sans";
+    color: #6b6143;
+    font-size: 18px;
 }
 
 h1, h2 {
     font-family: Merriweather;
-    color: #8c5220;
+    color: #ce9e75;
 }
 
 h2 {
@@ -134,7 +142,9 @@ em {
 }
 
 tr {
-    font-family: sans-serif;
+    font-family: "Open Sans";
+    color: #6b6143;
+    font-size: 18px;
 
     &:nth-child(even) {
         background-color: #eceedd;
@@ -161,20 +171,22 @@ a:hover {
 }
 
 form {
-    font-family: sans-serif;
+    font-family: "Open Sans";
+    color: #6b6143;
+    font-size: 18px;
 
     fieldset {
         border: none;
         padding: 10px 0;
 
         label {
-            width: 100px;
+            width: 120px;
             display: inline-block;
             vertical-align: top;
         }
 
         input, textarea {
-            width: 200px;
+            width: 240px;
             padding: 5px;
             vertical-align: top;
         }

@@ -4,38 +4,44 @@
 
         <h1>Contact</h1>
 
-        <form class="sidebyside">
-            <fieldset>
-                <label>First Name</label>
-                <input type="text" v-model="firstName" />
-            </fieldset>
+        <div class="sidebyside">
+            <h2>Send me a message</h2>
+            <form>  
+                <fieldset>
+                    <label>First Name</label>
+                    <input type="text" v-model="firstName" />
+                </fieldset>
 
-            <fieldset>
-                <label>Last Name</label>
-                <input type="text" v-model="lastName" />
-            </fieldset>
+                <fieldset>
+                    <label>Last Name</label>
+                    <input type="text" v-model="lastName" />
+                </fieldset>
 
-            <fieldset>
-                <label>Subject</label>
-                <input type="text" v-model="subject" />
-            </fieldset>
+                <fieldset>
+                    <label>Subject</label>
+                    <input type="text" v-model="subject" />
+                </fieldset>
 
-            <fieldset>
-                <label>Message</label>
-                <textarea v-model="message"></textarea>
-            </fieldset>
+                <fieldset>
+                    <label>Message</label>
+                    <textarea v-model="message"></textarea>
+                </fieldset>
 
-            <button @click="sendEmail" v-if="!sent">Send</button>
-            <div class="sending" v-else-if="sending === true">Sending...</div>
-            <div class="sent" v-else>Message sent!</div>
-        </form>
+                <button @click="sendEmail" v-if="!sent">Send</button>
+                <div class="sending" v-else-if="sending === true">Sending...</div>
+                <div class="sent" v-else>Message sent!</div>
+            </form>
+        </div>
 
-        <p class="sidebyside">
-            Basia Garratt<br/>
-            Hamilton, New Zealand<br/>
-            Email: <a href="mailto=basgarratt@gmail.com">basgarratt@gmail.com</a><br/>
-            Phone: +64 22 415 2822 / 022 415 2822
-        </p>
+        <div class="sidebyside">
+        <h2>Contact me directly</h2>
+            <p>
+                Basia Garratt<br/>
+                Hamilton, New Zealand<br/>
+                Email: <a href="mailto=basgarratt@gmail.com">basgarratt@gmail.com</a><br/>
+                Phone: +64 22 415 2822 / 022 415 2822
+            </p>
+        </div>
     </main>
 </template>
 
