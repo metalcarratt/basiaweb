@@ -61,6 +61,14 @@ main {
     }
 }
 
+.sidebyside {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    padding: 0 10px;
+}
+
 img.profile {
     width: 300px;
     display: inline-block;
@@ -150,4 +158,36 @@ tr {
 
 a:hover {
     background-color: #eee;
+}
+
+form {
+    font-family: sans-serif;
+
+    fieldset {
+        border: none;
+        padding: 10px 0;
+
+        label {
+            width: 100px;
+            display: inline-block;
+            vertical-align: top;
+        }
+
+        input, textarea {
+            width: 200px;
+            padding: 5px;
+            vertical-align: top;
+        }
+
+        textarea {
+            height: 150px;
+        }
+    }
+
+    button {
+        width: 100%;
+        font-size: 14px;
+        padding: 5px;
+        cursor: pointer;
+    }
 }

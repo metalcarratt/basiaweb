@@ -4,7 +4,31 @@
 
         <h1>Contact</h1>
 
-        <p>
+        <form class="sidebyside">
+            <fieldset>
+                <label>First Name</label>
+                <input type="text"/>
+            </fieldset>
+
+            <fieldset>
+                <label>Last Name</label>
+                <input type="text"/>
+            </fieldset>
+
+            <fieldset>
+                <label>Subject</label>
+                <input type="text"/>
+            </fieldset>
+
+            <fieldset>
+                <label>Message</label>
+                <textarea></textarea>
+            </fieldset>
+
+            <button>Send</button>
+        </form>
+
+        <p class="sidebyside">
             Basia Garratt<br/>
             Hamilton, New Zealand<br/>
             Email: <a href="mailto=basgarratt@gmail.com">basgarratt@gmail.com</a><br/>
