@@ -7,8 +7,8 @@
         <div class="column">
             <h2>Proofreading</h2>
             <ul>
-                <li>Grammar - Punctuation - Spelling - Typographical errors</li>
-                <li>Formatting- Table of Contents – Word choice</li>
+                <li>Grammar &ndash; Punctuation &ndash; Spelling &ndash; Typographical Errors</li>
+                <li>Formatting &ndash; Table of Contents &ndash; Word Choice</li>
                 <li>Inconsistencies in language use or spelling, e.g. capitalis/zation (UK or US English)</li>
                 <li>Page numbers, headers and footers - Diagrams, charts and illustrations match captions</li>
                 <li>5 + 1 = 8 (Not True) I will highlight errors and do not always explain why I have changed something</li>
@@ -47,8 +47,8 @@
         <div class="column">
             <h2>Your responsibility</h2>
             <ul>
-                <li>Your work is original - Factual checking</li>
-                <li>Mathematical equations checked - Biological / chemical end results</li>
+                <li>Your work is original &ndash; Factual checking</li>
+                <li>Mathematical equations checked &ndash; Biological / chemical end results</li>
                 <li>Keeping backup copies</li>
             </ul>
 
@@ -61,7 +61,7 @@
             <ul>
                 <li>Number of pages</li>
                 <li>3-4 pages from mid-section of project (including an example of a diagram)</li>
-                <li>Single / double spaced - Timeframe / deadline</li>
+                <li>Single / double spaced &ndash; Timeframe / deadline</li>
                 <li>Tasks requiring liaison with other people (if necessary)</li>
             </ul>
 
@@ -89,7 +89,7 @@
             <p>The following extra costs will be charged separately and itemised on your invoice <em>(if applicable)</em>:</p>
 
             <ul>
-                <li>Printing costs - Courier - Travel directly related to the project (petrol) and parking charges (if any)</li>
+                <li>Printing costs &ndash; Courier &ndash; Travel directly related to the project (petrol) and parking charges (if any)</li>
             </ul>
         </div>
             
@@ -118,7 +118,7 @@
 
             <p class="coloured">
                 Once your documentation has been returned to you, it is imperative that you keep copies of your work
-                as I will discard anything after two months from my computer – unless you request otherwise.
+                as I will discard anything after two months from my computer &ndash; unless you request otherwise.
             </p>
         </div>
     </main>
