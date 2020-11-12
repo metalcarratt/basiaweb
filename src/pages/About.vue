@@ -20,11 +20,7 @@
         <p>
             Apart from taking on work from students I am also interested in proofing children’s
             short stories, cookbooks, reports and journal articles, etc. I am an avid cook and
-            baker/ sampler of delicious café wares. I have proofread a variety of subjects from
-            general assignments to Master’s degrees and PhD theses: Applied Practices,
-            Biology, Chemical Engineering, Development Studies, Economics, Environmental
-            Science, Evolutionary Psychology, Food Science, Foreign Policy, Geothermal
-            Energy, Geology, Public Health, Public Policy, etc.
+            baker/ sampler of delicious café wares.
         </p>
 
         <router-link to="testimonials.html">See my testimonials</router-link>

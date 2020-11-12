@@ -1,8 +1,8 @@
 <template>
-    <main class="fullWidth">
+    <main>
         <HorizNav />
 
-        <div class="column">
+        
             <br/>
             <p>
                 If you have checked your work and just need a fresh pair of eyes to scan it again
@@ -19,9 +19,10 @@
                 <li><router-link to="/testimonials.html">Testimonials</router-link></li>
                 <li><router-link to="/contact.html">Contact</router-link></li>
             </ul>
-        </div>
+        
 
-        <div class="column">
+        
+<!--
             <h2>Types of Work I do</h2>
             <table>
                 <tr>
@@ -41,7 +42,8 @@
                     <td>Short stories, articles, children’s books, cookbooks</td>
                 </tr>
             </table>
-        </div>    
+            -->
+           
     </main>
 </template>
 
