@@ -18,4 +18,4 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: Build with npm
-      run: npm run build
+      run: pwd; npm run build
