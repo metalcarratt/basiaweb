@@ -19,7 +19,15 @@
                 <li><router-link to="/testimonials.html">Testimonials</router-link></li>
                 <li><router-link to="/contact.html">Contact</router-link></li>
             </ul>
-        
+
+            <p>I have proofread a variety of subjects from general assignments to Master’s degrees and PhD theses:</p>
+            <ul>
+                <li>Biology – Chemical Engineering – Geothermal Energy – Geology</li>
+                <li>Applied Practices – Development Studies – Economics</li>
+                <li>Environmental Science – Food Science</li>
+                <li>Evolutionary Psychology – Public Health – Pharmacology</li>
+                <li>Foreign Policy – Public Policy, etc.</li>
+            </ul>
 
         
 <!--

@@ -1,6 +1,8 @@
 <template>
-    <Heading/>
-    <router-view />
+    <div class="matte">
+        <Heading/>
+        <router-view />
+    </div>
 </template>
 
 <script>

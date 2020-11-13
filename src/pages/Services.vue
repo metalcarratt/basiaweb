@@ -10,7 +10,7 @@
                 <li>Grammar &ndash; Punctuation &ndash; Spelling &ndash; Typographical Errors</li>
                 <li>Formatting &ndash; Table of Contents &ndash; Word Choice</li>
                 <li>Inconsistencies in language use or spelling, e.g. capitalis/zation (UK or US English)</li>
-                <li>Page numbers, headers and footers - Diagrams, charts and illustrations match captions</li>
+                <li>Page numbers, headers and footers &ndash; Diagrams, charts and illustrations match captions</li>
                 <li>5 + 1 = 8 (Not True) I will highlight errors and do not always explain why I have changed something</li>
                 <li>I <em>Do Not</em> check for plagiarism</li>
             </ul>
@@ -23,21 +23,22 @@
                 chapters or as one whole document. 
             </p>
 
-            <h3>ONE</h3>
-            <p>
+            
+            <p class="step one">
                 Email me with your requirements, a word count, number of pages, referencing system (APA) and timeframe
-                / deadline. Also, a date and preferred time of day.
+                / deadline. Also, a date and preferred time of day.<br/><br/>
+                All communication is by email unless otherwise arranged.
             </p>
-            <p>All communication is by email unless otherwise arranged.</p>
+            
 
-            <h3>TWO</h3>
-            <p>
+            
+            <p class="step two">
                 We agree on a deadline, a quote / estimate and any particular requirements you may have. I will always do
                 my best to meet your deadlines. I may add a fee for work requested at short notice or over a weekend. 
             </p>
 
-            <h3>THREE</h3>
-            <p>
+            
+            <p class="step three">
                 I will perform an initial read on screen and make adjustments. Then a second read through to capture
                 anything I may have missed. 
             </p>
