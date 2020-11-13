@@ -1,16 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-div#app {
-    margin-bottom: 200px;
-}
-
 body {
     margin: 0;
     padding: 0;
     background-image: url("../public/img/tea-time-3240766_1920.jpg");
     background-attachment:fixed;
-    
+    background-size: 100%;
 }
 
 .heading {
@@ -71,6 +67,20 @@ main {
             vertical-align: top;
         }
     }
+
+    @media (max-width: 900px) {
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
+
+p.footer {
+    background-color: #ffffffaa;
+    width: 880px;
+    margin: 0 auto;
+    margin-top: 300px;
+    padding: 5px;
+    font-size: 14px;
 
     @media (max-width: 900px) {
         width: 100%;
