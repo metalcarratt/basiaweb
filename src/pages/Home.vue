@@ -30,7 +30,6 @@
         </div>
 
         <div class="column">
-            <h2>Types of Work I do</h2>
             <table>
                 <tr>
                     <th>Students / Students with English as a Second Language</th>
