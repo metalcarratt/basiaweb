@@ -20,7 +20,10 @@
         <p>
             Apart from taking on work from students I am also interested in proofing children’s
             short stories, cookbooks, reports and journal articles, etc. I am an avid cook and
-            baker/ sampler of delicious café wares.
+            baker/ sampler of delicious café wares. Transcription of radio messages, proofreading,
+            typesetting, and travelling for book distribution were just some of my tasks while
+            living in Poland. Whereas in London we assisted in setting up and running a cafe and
+            bookshop near Kings Cross Station.
         </p>
 
         <router-link to="testimonials.html">See my testimonials</router-link>

@@ -1,9 +1,11 @@
 <template>
-    <main>
+    <main class="twoThirdWidth">
         <HorizNav />
 
-        
-            <br/>
+        <br/>
+
+        <div class="column">
+            
             <p>
                 If you have checked your work and just need a fresh pair of eyes to scan it again
                 for anything you may have missed, then my proofreading service is available. Let
@@ -13,13 +15,6 @@
 
             <img class="profile" src="img/profile.jpg"/>
 
-            <ul class="menu">
-                <li><router-link to="/about.html">About Me</router-link></li>
-                <li><router-link to="/services.html">Services</router-link></li>
-                <li><router-link to="/testimonials.html">Testimonials</router-link></li>
-                <li><router-link to="/contact.html">Contact</router-link></li>
-            </ul>
-
             <p>I have proofread a variety of subjects from general assignments to Master’s degrees and PhD theses:</p>
             <ul>
                 <li>Biology – Chemical Engineering – Geothermal Energy – Geology</li>
@@ -28,9 +23,9 @@
                 <li>Evolutionary Psychology – Public Health – Pharmacology</li>
                 <li>Foreign Policy – Public Policy, etc.</li>
             </ul>
+        </div>
 
-        
-<!--
+        <div class="column">
             <h2>Types of Work I do</h2>
             <table>
                 <tr>
@@ -50,7 +45,13 @@
                     <td>Short stories, articles, children’s books, cookbooks</td>
                 </tr>
             </table>
-            -->
+        </div>
+            
+
+        
+
+            
+            
            
     </main>
 </template>
