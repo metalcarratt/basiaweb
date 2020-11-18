@@ -15,6 +15,10 @@
 
             <img class="profile" src="img/profile.jpg"/>
 
+            
+        </div>
+
+        <div class="column">
             <p>I have proofread a variety of subjects from general assignments to Master’s degrees and PhD theses:</p>
             <ul>
                 <li>Biology – Chemical Engineering – Geothermal Energy – Geology</li>
@@ -46,12 +50,6 @@
                 </tr>
             </table>
         </div>
-            
-
-        
-
-            
-            
            
     </main>
 </template>
