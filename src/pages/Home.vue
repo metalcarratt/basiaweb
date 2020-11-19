@@ -29,6 +29,8 @@
             </ul>
         </div>
 
+        <br/><br/>
+
         <div class="column">
             <table>
                 <tr>
