@@ -220,6 +220,17 @@ em {
         color: #c8742c;
         display: block;
     }
+
+    &.inline {
+        border-left: 1px solid #e8d0bc;
+        padding-left: 20px;
+        margin-left: 5px;
+        
+        label {
+            display: inline-block;
+        }
+    }
+    
 }
 
 .horiz-nav {
