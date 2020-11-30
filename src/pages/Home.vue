@@ -48,12 +48,12 @@
 
             <br/><br/>
 
-            <p class="quote inline">"Very professional since the beginning..." <label>Fernando Antunes Lopez</label></p>
-            <p class="quote inline">"This truly contributed to my final grades...She is very attentive to detail. Basia
-                simply corrects grammatical errors in your scripts but never changes your original ideas." <label>Saamu Tui</label></p>
-            <p class="quote inline">"She engaged with the content and offered suggestions for more context-specific words
-                which was very helpful and added to my overall result." <label>Mayerni Situmorang</label></p>
-            <p class="quote inline">"Mrs Garratt has a good reputation among my mentors and peers who recommended me to contact her..." <label>Cho Zin Oo</label></p>
+            <p class="quote inline">“Very professional since the beginning...” <label>Fernando Antunes Lopez</label></p>
+            <p class="quote inline">“This truly contributed to my final grades...She is very attentive to detail. Basia
+                simply corrects grammatical errors in your scripts but never changes your original ideas.” <label>Saamu Tui</label></p>
+            <p class="quote inline">“She engaged with the content and offered suggestions for more context-specific words
+                which was very helpful and added to my overall result.” <label>Mayerni Situmorang</label></p>
+            <p class="quote inline">“Mrs Garratt has a good reputation among my mentors and peers who recommended me to contact her...” <label>Cho Zin Oo</label></p>
         </div>
 
         <br/><br/>

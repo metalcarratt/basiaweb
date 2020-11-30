@@ -27,7 +27,7 @@
         </p>
 
         <br/>
-        <p class="quote inline">"Your fast and efficient work made the hard time of the thesis submission period a lot easier." <label>Paula Sanchez</label></p>
+        <p class="quote inline">“Your fast and efficient work made the hard time of the thesis submission period a lot easier.” <label>Paula Sanchez</label></p>
         <router-link to="testimonials.html">See my testimonials</router-link>
     </main>
 </template>
