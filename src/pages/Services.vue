@@ -99,12 +99,7 @@
         
         <div class="column">
             <h2>Payment terms</h2>
-            <ul>
-                <li>Small projects emailed on completion along with an invoice</li>
-                <li>Larger projects may incur a down payment</li>
-                <li>All payment is expected within 7 days</li>
-            </ul>
-
+            <p>All projects will incur a deposit and payment is expected within 7 days.</p>
             <p class="em">Prompt payment is vital and much appreciated</p>
             <p class="em">Spot It Proofing is not GST registered</p>
         </div>

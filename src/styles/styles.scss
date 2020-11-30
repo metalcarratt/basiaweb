@@ -200,7 +200,7 @@ h2 {
     border-bottom: 1px solid #e8d0bc;
 }
 
-em {
+em, .em {
     font-weight: 700;
     font-style: italic;
 }
@@ -228,6 +228,7 @@ em {
         
         label {
             display: inline-block;
+            font-size: 18px;
         }
     }
     
