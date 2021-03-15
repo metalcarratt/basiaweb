@@ -18,6 +18,12 @@
                 </fieldset>
 
                 <fieldset>
+                    <label>Email Address</label>
+                    <input type="text" v-model="email" />
+                    <span class="message">Please be sure to provide a correct email address or I will have no way to get back to you. Thanks!</span>
+                </fieldset>
+
+                <fieldset>
                     <label>Subject</label>
                     <input type="text" v-model="subject" />
                 </fieldset>
@@ -61,6 +67,7 @@ export default {
             firstName: "",
             lastName: "",
             subject: "",
+            email: "",
             message: "",
             sent: false,
             sending: false
@@ -73,6 +80,7 @@ export default {
                 first_name: this.firstName,
                 last_name: this.lastName,
                 subject: this.subject,
+                email: this.email,
                 message: this.message,
                 reply_to: EMAIL_REPLYTO
             };
@@ -94,3 +102,10 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+.message {
+    color: #e39810;
+    font-size: 14px;
+}
+</style>
