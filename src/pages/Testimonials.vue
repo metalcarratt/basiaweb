@@ -9,6 +9,29 @@
             <h2>PhDs</h2>
             <span class="quote">
                 <p>
+                    I highly recommend Spot It Proofing. As a PhD candidate at the University of
+                    Auckland I found Spot It Proofing to be very professional, prompt, affordable, detail
+                    oriented, friendly, flexible, kind, patient, upbeat, helpful, responsible, and easy to
+                    work with. Spot It Proofing does not leave things to chance, is not presumptuous but
+                    is quick to clarify any matters that seem ambiguous, always mindful of the deadlines
+                    of others and careful to return work on time.
+                    <br/><br/>
+                    Of the UoA third party editors I used Spot It Proofing the most often. Spot It Proofing
+                    helped me with editing my thesis chapters, references, article drafts, CV, statements,
+                    book notes and letters. Spot It Proofing was available even during holidays and
+                    weekends and always met my needs or exceeded them, including helping me to
+                    create a better thesis format and Table of Contents. I hope you will have your editing
+                    needs met by Spot It Proofing too!
+                </p>
+                <label>
+                    Noel Packard<br/>
+                    PhD. Program, Media, Film and Television PhD program, University of Auckland, 
+                    New Zealand, 20018- Present.
+                </label>
+            </span>
+
+            <span class="quote">
+                <p>
                     I submitted my PhD thesis document on the 29th of June 2020. The name of my thesis was 'Promoting oral health for people with cardiovascular
                     disease: A mixed-methods study to inform the development of a nurse-led Cardiovascular Oral Health (CARDIOH) program.'
                     <br/><br/>
