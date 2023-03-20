@@ -26,7 +26,7 @@
                 <label>
                     Noel Packard<br/>
                     PhD. Program, Media, Film and Television PhD program, University of Auckland, 
-                    New Zealand, 20018- Present.
+                    New Zealand, 2018- Present.
                 </label>
             </span>
 
